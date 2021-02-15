@@ -8,6 +8,10 @@
 
 > Esse é o primeiro projeto criado com as aulas do curso do ProgramadorBR, nele foi possível aprender várias técnicas básicas de CSS e a fazer uma integração com o Mailchimp para capturar os dados das pessoas que se inscreveram.
 
+<p align="center">
+  <img src="https://i.imgur.com/B89iRIP.png" />
+</p>
+
 ## Author
 
 👤 **Leonardo Mazzeu**
